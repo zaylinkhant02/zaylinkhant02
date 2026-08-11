@@ -2,7 +2,7 @@
 
 **Frontend Learner** | Grade 9 | Myanmar 🇲🇲
 
-> Building websites and exploring microcontrollers
+> Building websites since 2023, currently exploring microcontrollers this year
 
 ---
 
