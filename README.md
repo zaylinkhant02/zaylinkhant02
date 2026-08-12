@@ -1,6 +1,6 @@
 ## Hi there 👋 | I'm Zay Lin Khant
 
-**Frontend Learner** | Grade 9 | Myanmar 🇲🇲
+**High School Student** | Grade 9 | Myanmar 🇲🇲
 
 > Building websites since 2023, currently exploring microcontrollers this year
 > Learning engineering design and frontend web development
