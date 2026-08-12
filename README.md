@@ -16,14 +16,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🔧 Engineering Design & Embedded Systems
-![3D Printing](https://img.shields.io/badge/3D_Printing-00AE42?style=flat&logo=bambulab&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-00AE42?style=flat&logo=bambulab&logoColor=white)
 
 ### 🐍 Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 📚 Currently Building & Learning
+### 📚 Currently Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-00599C?style=flat&logo=autodesk&logoColor=white)
