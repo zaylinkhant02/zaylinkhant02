@@ -2,8 +2,7 @@
 
 **High School Student** | Grade 9 | Myanmar 🇲🇲
 
-> Building websites since 2023, currently exploring microcontrollers this year
-> Learning engineering design and frontend web development
+> Building websites since 2023 · Exploring electronics and engineering design
 
 ---
 
