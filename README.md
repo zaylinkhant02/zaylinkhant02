@@ -2,7 +2,7 @@
 
 **High School Student** | Grade 9 | Myanmar 🇲🇲
 
-> Building websites since 2023 · Exploring electronics and engineering design
+> Building websites since 2023 · Learning electronics and engineering design
 
 ---
 
