@@ -16,11 +16,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### ⚙️ Embedded Systems
+### 🔧 Engineering Design & Embedded Systems
+![3D Printing](https://img.shields.io/badge/3D_Printing-000000?style=flat&logo=bambulab&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
-### 🔧 Engineering
-![3D Printing](https://img.shields.io/badge/3D_Printing-6C2DC7?style=flat&logo=prusa&logoColor=white)
 
 ### 🐍 Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,5 +27,4 @@
 ### 📚 Currently Building & Learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-00599C?style=flat&logo=autodesk&logoColor=white)
