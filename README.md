@@ -16,8 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🔧 Engineering Design & Embedded Systems
-![3D Printing](https://img.shields.io/badge/3D_Printing-00AE42?style=flat&logo=bambulab&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-00AE42?style=flat&logo=bambulab&logoColor=white)
 
 ### 🐍 Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
