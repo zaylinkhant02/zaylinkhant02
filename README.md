@@ -1,6 +1,6 @@
-## Hi there 👋 | I'm Zay Lin Khant
+## Hi there 👋 | I'm Zay Lin Khant!
 
-**High School Student** | Grade 9 | Myanmar 🇲🇲
+**Grade 9 Student** | Aspiring Mechatronics Engineer | Myanmar 🇲🇲
 
 > Building websites since 2023 · Learning electronics and engineering design
 
