@@ -24,6 +24,6 @@
 
 ### 📚 Currently Learning
 ![3D Printing](https://img.shields.io/badge/3D_Printing-00AE42?style=flat&logo=bambulab&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-00599C?style=flat&logo=autodesk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
